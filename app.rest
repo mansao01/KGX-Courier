@@ -1,0 +1,9 @@
+http://localhost:8080
+
+###
+POST http://localhost:8080/input
+Content-Type: application/json
+
+{
+  "name": "wilson"
+}
